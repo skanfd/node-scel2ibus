@@ -1,6 +1,6 @@
 {
   "name": "scel2ibus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "搜狗scel细胞词库 --> ibus智能拼音词典",
   "bin": {
     "scel2ibus": "scel2ibus.js"
@@ -20,7 +20,7 @@
     "scel",
     "ibus"
   ],
-  "author": "kanfd",
+  "author": "skanfd",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/skanfd/node-scel2ibus/issues"
